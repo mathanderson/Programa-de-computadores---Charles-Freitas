@@ -1,3 +1,5 @@
-idade = 51
 nome = 'anderson'
-print('olá, nome, você tem, idade, anos')
+
+idade = 22
+
+print ('Olá', nome,', você tem', idade,'anos.')
