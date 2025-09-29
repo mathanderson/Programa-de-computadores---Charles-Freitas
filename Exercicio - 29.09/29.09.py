@@ -13,5 +13,22 @@ intMedia = round( (intNota1*2 + intNota2*3) / 5)
 
 # Mostrando as notas e a média
 print(f'Nota da Etapa 1: {intNota1}')
+
 print(f'Nota da Etapa 2: {intNota2}')
+
 print(f'Média: {intMedia}')
+
+# Mostrando se o aluno está APROVADO ou REPROVADO
+
+if intMedia >= 60:
+    print ('Aprovado!!!')
+
+elif intMedia >= 20:
+    print ('Prova Final')
+
+else:
+    print ('Reprovado')
+
+
+
+
