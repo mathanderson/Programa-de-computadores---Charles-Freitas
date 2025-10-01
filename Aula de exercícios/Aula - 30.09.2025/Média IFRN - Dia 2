@@ -16,4 +16,4 @@
 
 # Informando a carga horária da disciplina (horas/aula) e a quantidade de faltas do aluno
 
-IntCargaHoraria = int(Input)
+
